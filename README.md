@@ -1,10 +1,4 @@
 # Test-pynet-class
-
 ____
-
-
 ____
-
-
-
-TEst
+Test
