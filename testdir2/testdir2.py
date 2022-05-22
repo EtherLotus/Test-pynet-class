@@ -1,0 +1,2 @@
+print("test dir2")
+
